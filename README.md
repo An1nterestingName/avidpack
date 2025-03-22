@@ -1,4 +1,4 @@
 # Avid Adventures Resource Pack
-This is a deprecated branch, for the legacy 1.20.1 pack, which reached v0.0.8 Alpha (my semantic versioning was terrible at the time)
+This is the branch for the in-development 1.21.4 branch of the pack.
 
-This pack requires [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+This pack requires [Variants-CIT](https://modrinth.com/mod/variants-cit)
