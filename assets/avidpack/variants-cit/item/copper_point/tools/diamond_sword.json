@@ -2,5 +2,5 @@
     "type": "custom_name",
     "items": [ "minecraft:diamond_sword" ],
     "modelParent": "minecraft:item/handheld",
-    "modelPrefix": "clouds_rest/tools/"
+    "modelPrefix": "copper_point/tools/diamond_sword/"
 }

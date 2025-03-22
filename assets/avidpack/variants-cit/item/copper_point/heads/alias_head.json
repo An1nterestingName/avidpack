@@ -1,0 +1,6 @@
+{
+    "type": "custom_name",
+    "items": [ "minecraft:waxed_copper_block" ],
+    "modelParent": "minecraft:item/copper_point/heads/alias_head",
+    "modelPrefix": "copper_point/heads/alias_head/"
+}
